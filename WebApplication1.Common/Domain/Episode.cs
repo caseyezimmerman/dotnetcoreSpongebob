@@ -5,6 +5,6 @@ namespace WebApplication1.Common
         public int Id { get; set; }
         public int SeasonId { get; set; }
         public int EpisodeNumber { get; set; }
-        public string Character { get; set; }
+        public bool HasSpongebob { get; set; }
     }
 }
