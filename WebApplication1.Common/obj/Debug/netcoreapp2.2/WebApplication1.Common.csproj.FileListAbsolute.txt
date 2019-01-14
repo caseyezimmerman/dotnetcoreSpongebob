@@ -1,0 +1,9 @@
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/bin/Debug/netcoreapp2.2/WebApplication1.Common.deps.json
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/bin/Debug/netcoreapp2.2/WebApplication1.Common.dll
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/bin/Debug/netcoreapp2.2/WebApplication1.Common.pdb
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/obj/Debug/netcoreapp2.2/WebApplication1.Common.csprojAssemblyReference.cache
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/obj/Debug/netcoreapp2.2/WebApplication1.Common.csproj.CoreCompileInputs.cache
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/obj/Debug/netcoreapp2.2/WebApplication1.Common.AssemblyInfoInputs.cache
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/obj/Debug/netcoreapp2.2/WebApplication1.Common.AssemblyInfo.cs
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/obj/Debug/netcoreapp2.2/WebApplication1.Common.dll
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/obj/Debug/netcoreapp2.2/WebApplication1.Common.pdb
