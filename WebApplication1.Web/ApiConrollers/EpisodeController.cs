@@ -14,6 +14,13 @@ namespace WebApplication1.Web.ApiConrollers
         {
             return episode.GetEpisode();
         }
+
+        [HttpGet("dothing")]
+        public IActionResult DoThing([FromServices] IEpisodeService episode)
+        {
+            var x = episode.DoThing();
+            return Ok(x);
+        }
     }
 
     

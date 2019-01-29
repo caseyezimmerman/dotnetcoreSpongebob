@@ -5,5 +5,6 @@ namespace WebApplication1.Services.Domain.Interfaces
     public interface ICharacterService
     {
         Character GetCharacter();
+        Character SaveCharacter();
     }
 }

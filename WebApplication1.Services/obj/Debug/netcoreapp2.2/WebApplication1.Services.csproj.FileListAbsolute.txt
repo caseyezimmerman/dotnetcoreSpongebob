@@ -10,3 +10,7 @@
 /Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csproj.CopyComplete
 /Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.dll
 /Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.pdb
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.dll
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Data.dll
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Data.pdb
+/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/bin/Debug/netcoreapp2.2/Microsoft.EntityFrameworkCore.xml

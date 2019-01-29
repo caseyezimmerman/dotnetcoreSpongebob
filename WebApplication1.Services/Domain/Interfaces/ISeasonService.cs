@@ -2,9 +2,8 @@ using WebApplication1.Common;
 
 namespace WebApplication1.Services.Domain.Interfaces
 {
-    public interface IEpisodeService
+    public interface ISeasonService
     {
-        Episode GetEpisode();
-        Episode DoThing();
+        Season GetSeason();
     }
 }

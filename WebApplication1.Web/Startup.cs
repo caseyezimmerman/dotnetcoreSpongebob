@@ -8,6 +8,8 @@ using Microsoft.AspNetCore.Http;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.DependencyInjection.Extensions;
+using WebApplication1.Common;
+using WebApplication1.Data;
 using WebApplication1.Services.Domain;
 using WebApplication1.Services.Domain.Interfaces;
 
@@ -21,8 +23,11 @@ namespace WebApplication1.Web
         {
             services.AddMvc();
 
-            //services.AddDbContext<WebApplication1Context>(config => config.UseSqlServer("<YOUR CONN STRING HERE>"));
+            services.AddDbContext<SpongebobContext>(config => config.UseSqlServer("Data Source=juras-test.c4xkepfsjmb4.us-east-1.rds.amazonaws.com,11433;Initial Catalog=SpongebobDatabase;uid=su;pwd=P4ssw0rd!;"));
 
+        
+            
+            
             ConfigureDomainServices(services);
         }
 
@@ -30,6 +35,7 @@ namespace WebApplication1.Web
         {
             services.TryAddScoped<IEpisodeService, EpisodeService>();
             services.TryAddScoped<ICharacterService, CharacterService>();
+            services.TryAddScoped<ISeasonService, SeasonService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
@@ -47,5 +53,7 @@ namespace WebApplication1.Web
             app.UseHttpsRedirection();
             app.UseMvc();
         }
+        
+        
     }
 }

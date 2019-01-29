@@ -4,8 +4,28 @@
     <list default="true" id="c14ef488-b9b5-45ea-a71e-afdfd1fa1baa" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebApplication1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/WebApplication1.Services.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/WebApplication1.Services.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Services.deps.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Services.deps.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/bin/Debug/netcoreapp2.2/WebApplication1.Services.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.assets.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.assets.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csproj.CoreCompileInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csproj.CoreCompileInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csprojAssemblyReference.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.csprojAssemblyReference.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.dll" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/Debug/netcoreapp2.2/WebApplication1.Services.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/WebApplication1.Services.csproj.nuget.cache" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/WebApplication1.Services.csproj.nuget.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/project.assets.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/project.assets.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Services/obj/project.packagespec.json" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Services/obj/project.packagespec.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/WebApplication1.Web/Startup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Web/Startup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.Web/WebApplication1.Web.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.Web/WebApplication1.Web.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebApplication1.sln" beforeDir="false" afterPath="$PROJECT_DIR$/WebApplication1.sln" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,73 +34,22 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebApplication1.Web/Startup.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="250">
-              <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+            <state relative-caret-position="78">
+              <caret line="25" column="186" selection-start-line="25" selection-start-column="186" selection-end-line="25" selection-end-column="186" />
               <folding>
-                <marker date="1547493673576" expanded="false" signature="6:286" ph="..." />
-                <marker date="1547493673576" expanded="true" signature="465:1719" ph="{...}" />
-                <marker date="1547493673576" expanded="true" signature="492:1717" ph="{...}" />
-                <marker date="1547493673576" expanded="true" signature="507:722" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-                <marker date="1547493673576" expanded="true" signature="789:1008" ph="{...}" />
-                <marker date="1547493673576" expanded="true" signature="1083:1247" ph="{...}" />
-                <marker date="1547493673576" expanded="true" signature="1435:1711" ph="{...}" />
-                <marker date="1547493673576" expanded="true" signature="1482:1559" ph="{...}" />
-                <marker date="1547493673576" expanded="true" signature="1576:1635" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Domain/Episode.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-              <folding>
-                <marker date="1547491153608" expanded="true" signature="32:245" ph="{...}" />
-                <marker date="1547491153608" expanded="true" signature="59:243" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1.Web/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-              <folding>
-                <marker date="1547491179152" expanded="true" signature="83:166" ph="{...}" />
-                <marker date="1547491179152" expanded="true" signature="122:164" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-              <folding>
-                <marker date="1547491163178" expanded="true" signature="6:79" ph="..." />
-                <marker date="1547491163178" expanded="true" signature="122:408" ph="{...}" />
-                <marker date="1547491163178" expanded="true" signature="174:406" ph="{...}" />
-                <marker date="1547491163178" expanded="true" signature="216:400" ph="{...}" />
-                <marker date="1547491163178" expanded="true" signature="272:389" ph="{...}" />
+                <marker date="1548355159889" expanded="false" signature="6:492" ph="..." />
+                <marker date="1548355159889" expanded="true" signature="523:1992" ph="{...}" />
+                <marker date="1548355159889" expanded="true" signature="550:1990" ph="{...}" />
+                <marker date="1548355159889" expanded="true" signature="565:780" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+                <marker date="1548355159889" expanded="true" signature="847:1195" ph="{...}" />
+                <marker date="1548355159889" expanded="true" signature="1270:1502" ph="{...}" />
+                <marker date="1548355159889" expanded="true" signature="1690:1966" ph="{...}" />
+                <marker date="1548355159889" expanded="true" signature="1737:1814" ph="{...}" />
+                <marker date="1548355159889" expanded="true" signature="1831:1890" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -89,26 +58,67 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="105">
-              <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
+            <state relative-caret-position="360">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
               <folding>
-                <marker date="1547491728070" expanded="true" signature="6:117" ph="..." />
-                <marker date="1547491728070" expanded="true" signature="162:454" ph="{...}" />
-                <marker date="1547491728070" expanded="true" signature="264:446" ph="{...}" />
-                <marker date="1547491728070" expanded="true" signature="379:440" ph="{...}" />
+                <marker date="1548345964038" expanded="true" signature="6:117" ph="..." />
+                <marker date="1548345964038" expanded="true" signature="162:646" ph="{...}" />
+                <marker date="1548345964038" expanded="true" signature="264:638" ph="{...}" />
+                <marker date="1548345964038" expanded="true" signature="379:440" ph="{...}" />
+                <marker date="1548345964038" expanded="true" signature="547:632" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Domain/Character.cs">
+        <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+            <state relative-caret-position="105">
+              <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
               <folding>
-                <marker date="1547482022552" expanded="true" signature="32:230" ph="{...}" />
-                <marker date="1547482022552" expanded="true" signature="61:228" ph="{...}" />
+                <marker date="1548345924326" expanded="true" signature="83:193" ph="{...}" />
+                <marker date="1548345924326" expanded="true" signature="122:191" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-3">
+              <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+              <folding>
+                <marker date="1548345897968" expanded="true" signature="6:107" ph="..." />
+                <marker date="1548345897968" expanded="true" signature="150:1394" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="202:1392" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="316:368" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="404:588" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="460:577" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="622:968" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="680:797" ph="{...}" />
+                <marker date="1548345897968" expanded="true" signature="850:897" ph="/* or ... */" />
+                <marker date="1548345897968" expanded="true" signature="978:1386" ph="/* using (var context = new WebApplication1Context()) ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="248">
+              <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+              <folding>
+                <marker date="1548437983791" expanded="false" signature="6:107" ph="..." />
+                <marker date="1548437983791" expanded="true" signature="150:1003" ph="{...}" />
+                <marker date="1548437983791" expanded="true" signature="206:1001" ph="{...}" />
+                <marker date="1548437983791" expanded="true" signature="341:411" ph="{...}" />
+                <marker date="1548437983791" expanded="true" signature="451:627" ph="{...}" />
+                <marker date="1548437983791" expanded="true" signature="509:616" ph="{...}" />
+                <marker date="1548437983791" expanded="true" signature="669:995" ph="{...}" />
+                <marker date="1548437983791" expanded="true" signature="739:843" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -117,42 +127,27 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+            <state relative-caret-position="105">
+              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
               <folding>
-                <marker date="1547493346565" expanded="true" signature="83:172" ph="{...}" />
-                <marker date="1547493346565" expanded="true" signature="124:170" ph="{...}" />
+                <marker date="1548429914066" expanded="true" signature="83:207" ph="{...}" />
+                <marker date="1548429914066" expanded="true" signature="124:205" ph="{...}" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
-              <folding>
-                <marker date="1547493486530" expanded="true" signature="6:79" ph="..." />
-                <marker date="1547493486530" expanded="true" signature="122:408" ph="{...}" />
-                <marker date="1547493486530" expanded="true" signature="178:406" ph="{...}" />
-                <marker date="1547493486530" expanded="true" signature="224:400" ph="{...}" />
-                <marker date="1547493486530" expanded="true" signature="282:389" ph="{...}" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="300">
+              <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
               <folding>
-                <marker date="1547493629592" expanded="true" signature="6:81" ph="..." />
-                <marker date="1547493629592" expanded="true" signature="126:401" ph="{...}" />
-                <marker date="1547493629592" expanded="true" signature="216:399" ph="{...}" />
-                <marker date="1547493629592" expanded="true" signature="328:393" ph="{...}" />
+                <marker date="1548437912774" expanded="true" signature="6:111" ph="..." />
+                <marker date="1548437912774" expanded="true" signature="156:692" ph="{...}" />
+                <marker date="1548437912774" expanded="true" signature="260:690" ph="{...}" />
+                <marker date="1548437912774" expanded="true" signature="372:437" ph="{...}" />
+                <marker date="1548437912774" expanded="true" signature="560:684" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -168,9 +163,13 @@
     <setting file="file://$PROJECT_DIR$/WebApplication1.Web/Program.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/SeasonController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/SeasonService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1.Data/SpongebobContext.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ISeasonService.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Common/Domain/Season.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/WebApplication1.Common/Domain/Episode.cs" root0="FORCE_HIGHLIGHTING" />
@@ -188,13 +187,19 @@
         <option value="$PROJECT_DIR$/WebApplication1.Services/Class1.cs" />
         <option value="$PROJECT_DIR$/WebApplication1.Web/Program.cs" />
         <option value="$PROJECT_DIR$/WebApplication1.Common/Domain/Episode.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ISeasonService.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/SeasonController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Data/Class1.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Data/WebApplication1Context.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/SeasonService.cs" />
         <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs" />
         <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs" />
         <option value="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs" />
-        <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs" />
-        <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs" />
-        <option value="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Data/SpongebobContext.cs" />
         <option value="$PROJECT_DIR$/WebApplication1.Web/Startup.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs" />
+        <option value="$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs" />
       </list>
     </option>
   </component>
@@ -212,6 +217,23 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="WebApplication1" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="WebApplication1" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="WebApplication1.Common" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="SolutionExplorer">
         <subPane>
           <expand>
@@ -229,6 +251,11 @@
               <item name="WebApplication1" type="24d0babc:SolutionExplorerModelNode" />
               <item name="WebApplication1.Common" type="24d0babc:SolutionExplorerModelNode" />
               <item name="Domain" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WebApplication1.Data" type="24d0babc:SolutionExplorerModelNode" />
             </path>
             <path>
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
@@ -257,29 +284,18 @@
               <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
               <item name="WebApplication1" type="24d0babc:SolutionExplorerModelNode" />
               <item name="WebApplication1.Web" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Properties" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="WebApplication1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="WebApplication1.Web" type="24d0babc:SolutionExplorerModelNode" />
               <item name="ApiConrollers" type="24d0babc:SolutionExplorerModelNode" />
             </path>
           </expand>
           <select />
         </subPane>
         <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
-      <pane id="FileSystemExplorer">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="WebApplication1" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-            <path>
-              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
-              <item name="WebApplication1" type="34e6ba20:FileSystemExplorerNode" />
-              <item name="WebApplication1.Common" type="34e6ba20:FileSystemExplorerNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
       </pane>
     </panes>
   </component>
@@ -288,6 +304,7 @@
     <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dacosta-global/dacostaglobal-api/DaCostaReporting.sln" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -331,7 +348,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3806000" />
+    <option name="totallyTimeSpent" value="15317000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -344,40 +361,41 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="9" y="23" width="1251" height="737" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979322" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22332506" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="NuGet" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Unit Tests" />
-      <window_info anchor="bottom" id="REST Client" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Build" weight="0.32868218" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32868218" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Errors In Solution" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="10" />
+      <window_info anchor="bottom" id="Unit Tests" order="11" />
+      <window_info anchor="bottom" id="REST Client" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="15" weight="0.32868218" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnityProjectConfiguration" hasMinimizedUI="null" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -390,17 +408,46 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Program.cs">
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Program.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Class1.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html" />
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/appsettings.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Class1.cs">
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/appsettings.Development.json">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.html">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Class1.cs">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ISeasonService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="10" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="10" />
+          <folding>
+            <marker date="1547657111706" expanded="true" signature="83:163" ph="{...}" />
+            <marker date="1547657111706" expanded="true" signature="121:161" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/SeasonController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="42" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+          <folding>
+            <marker date="1547657121804" expanded="true" signature="6:81" ph="..." />
+            <marker date="1547657121804" expanded="true" signature="126:404" ph="{...}" />
+            <marker date="1547657121804" expanded="true" signature="227:402" ph="{...}" />
+            <marker date="1547657121804" expanded="true" signature="332:396" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebApplication1.Common/Domain/Season.cs">
       <provider selected="true" editor-type-id="text-editor">
@@ -426,16 +473,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/appsettings.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/appsettings.Development.json">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/.gitignore">
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/SeasonService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="15" selection-start-line="12" selection-start-column="15" selection-end-line="12" selection-end-column="15" />
+        <state relative-caret-position="255">
+          <caret line="17" column="8" selection-start-line="17" selection-start-column="8" selection-end-line="17" selection-end-column="8" />
+          <folding>
+            <marker date="1548345966465" expanded="true" signature="6:79" ph="..." />
+            <marker date="1548345966465" expanded="true" signature="122:420" ph="{...}" />
+            <marker date="1548345966465" expanded="true" signature="172:418" ph="{...}" />
+            <marker date="1548345966465" expanded="true" signature="212:394" ph="{...}" />
+            <marker date="1548345966465" expanded="true" signature="267:383" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Data/SpongebobContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="73" lean-forward="true" selection-start-line="8" selection-start-column="73" selection-end-line="8" selection-end-column="73" />
+          <folding>
+            <marker date="1548346034554" expanded="false" signature="6:80" ph="..." />
+            <marker date="1548346034554" expanded="true" signature="112:663" ph="{...}" />
+            <marker date="1548346034554" expanded="true" signature="160:661" ph="{...}" />
+            <marker date="1548346034554" expanded="true" signature="240:261" ph="{...}" />
+            <marker date="1548346034554" expanded="true" signature="348:368" ph="{...}" />
+            <marker date="1548346034554" expanded="true" signature="444:464" ph="{...}" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -450,58 +513,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-          <folding>
-            <marker date="1547491179152" expanded="true" signature="83:166" ph="{...}" />
-            <marker date="1547491179152" expanded="true" signature="122:164" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="29" lean-forward="true" selection-start-column="29" selection-end-column="29" />
-          <folding>
-            <marker date="1547491163178" expanded="true" signature="6:79" ph="..." />
-            <marker date="1547491163178" expanded="true" signature="122:408" ph="{...}" />
-            <marker date="1547491163178" expanded="true" signature="174:406" ph="{...}" />
-            <marker date="1547491163178" expanded="true" signature="216:400" ph="{...}" />
-            <marker date="1547491163178" expanded="true" signature="272:389" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/WebApplication1.Web/Startup.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="250">
-          <caret line="31" column="70" selection-start-line="31" selection-start-column="70" selection-end-line="31" selection-end-column="70" />
+        <state relative-caret-position="78">
+          <caret line="25" column="186" selection-start-line="25" selection-start-column="186" selection-end-line="25" selection-end-column="186" />
           <folding>
-            <marker date="1547493673576" expanded="false" signature="6:286" ph="..." />
-            <marker date="1547493673576" expanded="true" signature="465:1719" ph="{...}" />
-            <marker date="1547493673576" expanded="true" signature="492:1717" ph="{...}" />
-            <marker date="1547493673576" expanded="true" signature="507:722" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
-            <marker date="1547493673576" expanded="true" signature="789:1008" ph="{...}" />
-            <marker date="1547493673576" expanded="true" signature="1083:1247" ph="{...}" />
-            <marker date="1547493673576" expanded="true" signature="1435:1711" ph="{...}" />
-            <marker date="1547493673576" expanded="true" signature="1482:1559" ph="{...}" />
-            <marker date="1547493673576" expanded="true" signature="1576:1635" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="28" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-          <folding>
-            <marker date="1547491728070" expanded="true" signature="6:117" ph="..." />
-            <marker date="1547491728070" expanded="true" signature="162:454" ph="{...}" />
-            <marker date="1547491728070" expanded="true" signature="264:446" ph="{...}" />
-            <marker date="1547491728070" expanded="true" signature="379:440" ph="{...}" />
+            <marker date="1548355159889" expanded="false" signature="6:492" ph="..." />
+            <marker date="1548355159889" expanded="true" signature="523:1992" ph="{...}" />
+            <marker date="1548355159889" expanded="true" signature="550:1990" ph="{...}" />
+            <marker date="1548355159889" expanded="true" signature="565:780" ph="/* This method gets called by the runtime. Use this method to add services to the container. ... */" />
+            <marker date="1548355159889" expanded="true" signature="847:1195" ph="{...}" />
+            <marker date="1548355159889" expanded="true" signature="1270:1502" ph="{...}" />
+            <marker date="1548355159889" expanded="true" signature="1690:1966" ph="{...}" />
+            <marker date="1548355159889" expanded="true" signature="1737:1814" ph="{...}" />
+            <marker date="1548355159889" expanded="true" signature="1831:1890" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -517,40 +542,91 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/Properties/launchSettings.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/ICharacterService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="33" selection-start-line="6" selection-start-column="33" selection-end-line="6" selection-end-column="33" />
+        <state relative-caret-position="105">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
           <folding>
-            <marker date="1547493346565" expanded="true" signature="83:172" ph="{...}" />
-            <marker date="1547493346565" expanded="true" signature="124:170" ph="{...}" />
+            <marker date="1548429914066" expanded="true" signature="83:207" ph="{...}" />
+            <marker date="1548429914066" expanded="true" signature="124:205" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs">
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/Interfaces/IEpisodeService.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="14" lean-forward="true" selection-start-line="14" selection-start-column="14" selection-end-line="14" selection-end-column="14" />
+        <state relative-caret-position="105">
+          <caret line="7" column="26" selection-start-line="7" selection-start-column="26" selection-end-line="7" selection-end-column="26" />
           <folding>
-            <marker date="1547493486530" expanded="true" signature="6:79" ph="..." />
-            <marker date="1547493486530" expanded="true" signature="122:408" ph="{...}" />
-            <marker date="1547493486530" expanded="true" signature="178:406" ph="{...}" />
-            <marker date="1547493486530" expanded="true" signature="224:400" ph="{...}" />
-            <marker date="1547493486530" expanded="true" signature="282:389" ph="{...}" />
+            <marker date="1548345924326" expanded="true" signature="83:193" ph="{...}" />
+            <marker date="1548345924326" expanded="true" signature="122:191" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/EpisodeService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3">
+          <caret line="23" column="32" lean-forward="true" selection-start-line="23" selection-start-column="32" selection-end-line="23" selection-end-column="32" />
+          <folding>
+            <marker date="1548345897968" expanded="true" signature="6:107" ph="..." />
+            <marker date="1548345897968" expanded="true" signature="150:1394" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="202:1392" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="316:368" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="404:588" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="460:577" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="622:968" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="680:797" ph="{...}" />
+            <marker date="1548345897968" expanded="true" signature="850:897" ph="/* or ... */" />
+            <marker date="1548345897968" expanded="true" signature="978:1386" ph="/* using (var context = new WebApplication1Context()) ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/EpisodeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <marker date="1548345964038" expanded="true" signature="6:117" ph="..." />
+            <marker date="1548345964038" expanded="true" signature="162:646" ph="{...}" />
+            <marker date="1548345964038" expanded="true" signature="264:638" ph="{...}" />
+            <marker date="1548345964038" expanded="true" signature="379:440" ph="{...}" />
+            <marker date="1548345964038" expanded="true" signature="547:632" ph="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/WebApplication1.Web/ApiConrollers/CharacterController.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        <state relative-caret-position="300">
+          <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
           <folding>
-            <marker date="1547493629592" expanded="true" signature="6:81" ph="..." />
-            <marker date="1547493629592" expanded="true" signature="126:401" ph="{...}" />
-            <marker date="1547493629592" expanded="true" signature="216:399" ph="{...}" />
-            <marker date="1547493629592" expanded="true" signature="328:393" ph="{...}" />
+            <marker date="1548437912774" expanded="true" signature="6:111" ph="..." />
+            <marker date="1548437912774" expanded="true" signature="156:692" ph="{...}" />
+            <marker date="1548437912774" expanded="true" signature="260:690" ph="{...}" />
+            <marker date="1548437912774" expanded="true" signature="372:437" ph="{...}" />
+            <marker date="1548437912774" expanded="true" signature="560:684" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebApplication1.Services/Domain/CharacterService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="28" column="29" selection-start-line="28" selection-start-column="29" selection-end-line="28" selection-end-column="29" />
+          <folding>
+            <marker date="1548437983791" expanded="false" signature="6:107" ph="..." />
+            <marker date="1548437983791" expanded="true" signature="150:1003" ph="{...}" />
+            <marker date="1548437983791" expanded="true" signature="206:1001" ph="{...}" />
+            <marker date="1548437983791" expanded="true" signature="341:411" ph="{...}" />
+            <marker date="1548437983791" expanded="true" signature="451:627" ph="{...}" />
+            <marker date="1548437983791" expanded="true" signature="509:616" ph="{...}" />
+            <marker date="1548437983791" expanded="true" signature="669:995" ph="{...}" />
+            <marker date="1548437983791" expanded="true" signature="739:843" ph="{...}" />
           </folding>
         </state>
       </provider>

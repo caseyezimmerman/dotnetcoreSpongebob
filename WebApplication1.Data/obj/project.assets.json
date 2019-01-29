@@ -217,19 +217,6 @@
         "runtime": {
           "bin/placeholder/WebApplication1.Common.dll": {}
         }
-      },
-      "WebApplication1.Data/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v2.2",
-        "dependencies": {
-          "WebApplication1.Common": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/WebApplication1.Data.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/WebApplication1.Data.dll": {}
-        }
       }
     }
   },
@@ -706,18 +693,12 @@
       "type": "project",
       "path": "../WebApplication1.Common/WebApplication1.Common.csproj",
       "msbuildProject": "../WebApplication1.Common/WebApplication1.Common.csproj"
-    },
-    "WebApplication1.Data/1.0.0": {
-      "type": "project",
-      "path": "../WebApplication1.Data/WebApplication1.Data.csproj",
-      "msbuildProject": "../WebApplication1.Data/WebApplication1.Data.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.NETCore.App >= 2.2.0",
-      "WebApplication1.Common >= 1.0.0",
-      "WebApplication1.Data >= 1.0.0"
+      "WebApplication1.Common >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -727,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/WebApplication1.Services.csproj",
-      "projectName": "WebApplication1.Services",
-      "projectPath": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/WebApplication1.Services.csproj",
+      "projectUniqueName": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Data/WebApplication1.Data.csproj",
+      "projectName": "WebApplication1.Data",
+      "projectPath": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Data/WebApplication1.Data.csproj",
       "packagesPath": "/Users/caseyzimmerman/.nuget/packages/",
-      "outputPath": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Services/obj/",
+      "outputPath": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Data/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -750,9 +731,6 @@
           "projectReferences": {
             "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/WebApplication1.Common.csproj": {
               "projectPath": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Common/WebApplication1.Common.csproj"
-            },
-            "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Data/WebApplication1.Data.csproj": {
-              "projectPath": "/Users/caseyzimmerman/Desktop/7Factor/dotnetcoreSpongebob/WebApplication1/WebApplication1.Data/WebApplication1.Data.csproj"
             }
           }
         }

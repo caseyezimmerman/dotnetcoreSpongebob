@@ -6,27 +6,18 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v2.2": {
-      "WebApplication1.Services/1.0.0": {
+      "WebApplication1.Data/1.0.0": {
         "dependencies": {
           "WebApplication1.Common": "1.0.0",
-          "WebApplication1.Data": "1.0.0",
           "Microsoft.EntityFrameworkCore": "2.2.0.0"
         },
         "runtime": {
-          "WebApplication1.Services.dll": {}
+          "WebApplication1.Data.dll": {}
         }
       },
       "WebApplication1.Common/1.0.0": {
         "runtime": {
           "WebApplication1.Common.dll": {}
-        }
-      },
-      "WebApplication1.Data/1.0.0": {
-        "dependencies": {
-          "WebApplication1.Common": "1.0.0"
-        },
-        "runtime": {
-          "WebApplication1.Data.dll": {}
         }
       },
       "Microsoft.EntityFrameworkCore/2.2.0.0": {
@@ -40,17 +31,12 @@
     }
   },
   "libraries": {
-    "WebApplication1.Services/1.0.0": {
+    "WebApplication1.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "WebApplication1.Common/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "WebApplication1.Data/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
